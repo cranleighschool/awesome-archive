@@ -1,0 +1,57 @@
+/* This CSS resource incorporates links to font software which is the
+   valuable copyrighted property of Type Network, Inc. and/or their
+   suppliers. You may not attempt to copy, install, redistribute,
+   convert, modify or reverse engineer this font software. Please
+   contact Type Network with any questions: www.typenetwork.com */
+
+  
+@font-face {
+font-family: "Benton Sans Reg";
+font-weight: normal; 
+font-style: normal; 
+font-display: auto; 
+
+
+src: url("//fastly-cloud.typenetwork.com/projects/772/860_vdef_e29bf09b24_ec3.woff2?ddc0ee1b29f22d0bf691ca97fc73962a4cad3c8e") format("woff2"),
+     url("//fastly-cloud.typenetwork.com/projects/772/860_vdef_e29bf09b24_ec3.woff?ddc0ee1b29f22d0bf691ca97fc73962a4cad3c8e") format("woff");
+
+}
+		
+	 
+@font-face {
+font-family: "Benton Sans Lt";
+font-weight: normal; 
+font-style: normal; 
+font-display: auto; 
+
+
+src: url("//fastly-cloud.typenetwork.com/projects/772/85c_vdef_e29bf09b24_ec1.woff2?ddc0ee1b29f22d0bf691ca97fc73962a4cad3c8e") format("woff2"),
+     url("//fastly-cloud.typenetwork.com/projects/772/85c_vdef_e29bf09b24_ec1.woff?ddc0ee1b29f22d0bf691ca97fc73962a4cad3c8e") format("woff");
+
+}
+		
+	 
+@font-face {
+font-family: "Benton Sans It";
+font-weight: normal; 
+font-style: italic; 
+font-display: auto; 
+
+
+src: url("//fastly-cloud.typenetwork.com/projects/772/861_vdef_e29bf09b24_ec4.woff2?ddc0ee1b29f22d0bf691ca97fc73962a4cad3c8e") format("woff2"),
+     url("//fastly-cloud.typenetwork.com/projects/772/861_vdef_e29bf09b24_ec4.woff?ddc0ee1b29f22d0bf691ca97fc73962a4cad3c8e") format("woff");
+
+}
+		
+	 
+@font-face {
+font-family: "Benton Sans Lt It";
+font-weight: normal; 
+font-style: italic; 
+font-display: auto; 
+
+
+src: url("//fastly-cloud.typenetwork.com/projects/772/85d_vdef_e29bf09b24_ec2.woff2?ddc0ee1b29f22d0bf691ca97fc73962a4cad3c8e") format("woff2"),
+     url("//fastly-cloud.typenetwork.com/projects/772/85d_vdef_e29bf09b24_ec2.woff?ddc0ee1b29f22d0bf691ca97fc73962a4cad3c8e") format("woff");
+
+}
