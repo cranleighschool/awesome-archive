@@ -626,8 +626,7 @@
                                     group, appealing to both boys and girls, and available in paperback. Thousands of
                                     pupils from schools across the South East read the whole shortlist and then vote for
                                     their favourite overall.</p>
-                                <p>To find out more about the awards, please <a href="/about-the-awards/">click here</a>,
-                                    and to read about previous Awesome Book Awards years, please <a
+                                <p>To read about previous Awesome Book Awards years, please <a
                                         href="/history-of-the-awards/">click
                                         here</a>.</p>
                                 <div class="row">
@@ -1080,6 +1079,11 @@
 <script type="text/javascript" src="/wp-content/themes/awesome-book-awards/public/js/app.js?ver=1691402227"
         id="understrap-scripts-js"></script>
 <script>
+    jQuery(document).ready(function() {
+       jQuery('.row.books-shortlist .col-md-2 a').each(function() {
+           jQuery(this).removeAttr('href');
+       });
+    });
     var $buoop = {
         vs: {i: 10, f: -4, o: -4, s: 9, c: -4},
         reminder: 0,
